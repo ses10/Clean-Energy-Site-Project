@@ -1,0 +1,20 @@
+
+
+/*HEADER*/
+#subTitle{
+    margin-left: 15px;
+    font-size: 16px;
+}
+
+#navbar a{
+    
+}
+
+#navbar a:hover{
+    background-color: #33D633;
+    color:white;
+}
+
+#navbar .active a{
+    background-color: #33D633;
+}
