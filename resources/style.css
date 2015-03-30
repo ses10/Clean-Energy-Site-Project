@@ -18,3 +18,24 @@
 #navbar .active a{
     background-color: #33D633;
 }
+
+/*SIDEBAR*/
+.side-bar{
+
+	height: 300px;
+	overflow: hidden;
+}
+
+.side-bar p{
+    border-bottom: 1px solid lightgrey;    
+    height: 100px;
+}
+
+.side-bar p:hover{
+   background-color: #F8F8F8;    
+}
+
+.side-bar a{
+    color: black;
+    text-decoration: none;
+}
